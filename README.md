@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LetsXhill
+- 🌱 I’m currently learning discord.js
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : 
+- discord : LetsChill#0001
